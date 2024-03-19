@@ -7,6 +7,8 @@ SentEval/data/downstream
 figure
 demo
 data/text
+official_model
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
